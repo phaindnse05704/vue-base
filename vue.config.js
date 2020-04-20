@@ -19,9 +19,9 @@ module.exports = {
   },
   css: {
     loaderOptions: {
-      sass: {
-        data: prependScss.join("")
-      }
+      // sass: {
+      //   data: prependScss.join("")
+      // }
     }
   },
   // chainWebpack: config => {
