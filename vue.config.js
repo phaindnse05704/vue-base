@@ -8,7 +8,6 @@ const prependScss = [
 
 module.exports = {
   assetsDir: "static/",
-  transpileDependencies: ["vuetify"],
   pluginOptions: {
     i18n: {
       locale: "vi",
